@@ -1,0 +1,5 @@
+RETRIEVE = "retrieve"
+GRADE_DOCUMENTS = "grade_documents"
+GENERATE = "generate"
+WEBSEARCH = "websearch"
+LLM_FALLBACK = "llm_fallback"
